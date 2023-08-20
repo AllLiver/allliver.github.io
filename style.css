@@ -4,24 +4,3 @@ body {
     color: #ffffff;
 }
 
-.topnav {
-    background-color: #00000000;
-    overflow: hidden;
-}
-  
-.topnav a {
-    float: left;
-    color: #ffffff;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-  
-.topnav a:hover {
-    color: #808080;
-}
-  
-.topnav a.active {
-    color: #04AA6D;
-}
