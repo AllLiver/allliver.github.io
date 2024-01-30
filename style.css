@@ -1,3 +1,11 @@
-main {
+body {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #212426;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: dodgerblue;
 }
