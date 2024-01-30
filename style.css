@@ -11,5 +11,5 @@ a {
 }
 
 .projects {
-    display: grid;
+    text-align: left;
 }
