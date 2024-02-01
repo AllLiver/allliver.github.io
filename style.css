@@ -17,4 +17,11 @@ a {
     margin: 5px;
     padding: 10px;
     border-color: darkgray;
+    
+    img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
 }
+
