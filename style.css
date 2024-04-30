@@ -3,6 +3,9 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #212426;
     color: #ffffff;
+    ul {
+        text-align: left;
+    }
 }
 
 a {
