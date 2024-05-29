@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto';
+    background-color: #2F363B;
+    color: #e4f3ff;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #a5f6ac;
+}
+
+p {
+    font-size: 24px;
+    line-height: 5px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.topnav {
+    display: flex;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.topnav a {
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
